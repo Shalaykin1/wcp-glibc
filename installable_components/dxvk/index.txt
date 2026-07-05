@@ -10,7 +10,6 @@ dxvk-2.5.3.tzst
 dxvk-2.6.1.tzst
 dxvk-2.7.1.tzst
 dxvk-3.0.tzst
-dxvk-3.0.1.tzst
 dxvk-1.10.3-async.tzst
 dxvk-1.11.0-sarek-async.tzst
 dxvk-1.11.0-sarek-mali-fix.tzst
