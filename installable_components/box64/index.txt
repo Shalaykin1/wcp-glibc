@@ -4,4 +4,5 @@ box64-0.4.0.tzst
 box64-0.4.1.tzst
 box64-0.4.2.tzst
 box64-0.4.3.tzst
+box64-0.4.4.tzst
 box64-0.4.5.tzst
